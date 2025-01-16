@@ -1,5 +1,5 @@
 <h3 align="center"> Greetings! I am Chubi Best &nbsp; &nbsp; &nbsp; 🥷🏽 </h3>
-<h1 align="center"> Software Engineer and Organic Entity </h1>
+<h1 align="center"> Software Engineer </h1>
 
 - Web and Mobile Development
 
@@ -10,7 +10,7 @@
 #### Contact Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/chubi-best-9a0a50198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chubi" height="30" width="40" /></a>
-<a href="mailto:chubi.best@gmail.com?subject=Important!&body=Hi." target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVCGekHa76ugm5OqEUK-WcyVMx0ULsrsduL_nDc2f8dQZ-pW2QlNx3wcXFaCBmKXeg8to&usqp=CAU" alt="chubi" height="30" width="40" /></a>
+<a href="mailto:chubi.best@gmail.com?subject=Important!&body=Hi." target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png" alt="chubi" height="30" width="80" /></a>
 </p>
 
 #### Tools and Technologies:
